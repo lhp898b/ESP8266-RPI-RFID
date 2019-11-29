@@ -4,7 +4,7 @@ import serial
 import time
 import MySQLdb
 # 配置数据库实例
-dbConn = MySQLdb.connect('129.204.232.235', 'zch', '123456', 'rfidesp', 3306, charset='utf8',  autocommit = True)
+dbConn = MySQLdb.connect('xxx', 'xxx', '123456', 'rfidesp', 3306, charset='utf8',  autocommit = True)
 device = """/dev/ttyUSB0"""
 while True:
     try:
