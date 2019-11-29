@@ -1,0 +1,136 @@
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+N:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.exe.config
+N:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.exe
+N:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.pdb
+N:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\mysql.data.dll
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.CopyComplete
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.exe
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.pdb
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Frm_Main.resources
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Login.resources
+N:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.FrmAboubt.resources
+F:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.exe.config
+F:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.exe
+F:\develop\C#\RFID出勤系统\RFID\RFID\bin\Debug\RFID.pdb
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.FrmAboubt.resources
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Frm_Main.resources
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Login.resources
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.csproj.CopyComplete
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.exe
+F:\develop\C#\RFID出勤系统\RFID\RFID\obj\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID\RFID\bin\Debug\RFID.exe.config
+C:\Users\浅蓝丶\Desktop\RFID\RFID\bin\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\RFID\RFID\bin\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.FrmAboubt.resources
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Frm_Main.resources
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Login.resources
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.csproj.CopyComplete
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Frm_delete.resources
+F:\RFID\RFID\bin\Debug\RFID.exe.config
+F:\RFID\RFID\bin\Debug\RFID.exe
+F:\RFID\RFID\bin\Debug\RFID.pdb
+F:\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+F:\RFID\RFID\obj\Debug\RFID.FrmAboubt.resources
+F:\RFID\RFID\obj\Debug\RFID.Frm_delete.resources
+F:\RFID\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+F:\RFID\RFID\obj\Debug\RFID.Frm_Main.resources
+F:\RFID\RFID\obj\Debug\RFID.Login.resources
+F:\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+F:\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+F:\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+F:\RFID\RFID\obj\Debug\RFID.csproj.CopyComplete
+F:\RFID\RFID\obj\Debug\RFID.exe
+F:\RFID\RFID\obj\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID\RFID\bin\Debug\Google.Protobuf.dll
+C:\Users\浅蓝丶\Desktop\RFID\RFID\bin\Debug\mysql.data.xml
+C:\Users\浅蓝丶\Desktop\RFID\RFID\obj\Debug\RFID.Frm_emergency.resources
+F:\develop\C#\RFID\RFID\bin\Debug\RFID.exe.config
+F:\develop\C#\RFID\RFID\bin\Debug\RFID.exe
+F:\develop\C#\RFID\RFID\bin\Debug\RFID.pdb
+F:\develop\C#\RFID\RFID\bin\Debug\Google.Protobuf.dll
+F:\develop\C#\RFID\RFID\bin\Debug\mysql.data.xml
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.FrmAboubt.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Frm_delete.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Frm_emergency.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Frm_Main.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Login.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.csproj.CopyComplete
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.exe
+F:\develop\C#\RFID\RFID\obj\Debug\RFID.pdb
+F:\develop\C#\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe.config
+F:\develop\C#\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe
+F:\develop\C#\RFID - 员工考勤系统\RFID\bin\Debug\RFID.pdb
+F:\develop\C#\RFID - 员工考勤系统\RFID\bin\Debug\Google.Protobuf.dll
+F:\develop\C#\RFID - 员工考勤系统\RFID\bin\Debug\mysql.data.xml
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.FrmAboubt.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_delete.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_emergency.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Main.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Login.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Properties.Resources.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.CopyComplete
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.exe
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.pdb
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_history.resources
+F:\develop\C#\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Form1.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe.config
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\bin\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.FrmAboubt.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_delete.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_emergency.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_history.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Main.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Login.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frn_person.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Leave.resources
+C:\Users\浅蓝丶\Desktop\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Signoff.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe.config
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\bin\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\bin\Debug\RFID.pdb
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.FrmAboubt.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_delete.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_emergency.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_history.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_InputInformation.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Leave.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Main.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frn_person.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Frm_Signoff.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Login.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.exe
+C:\Users\浅蓝丶\Desktop\程序设计保存\RFID - 员工考勤系统\RFID\obj\Debug\RFID.pdb
